@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Polynomial Interpolation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Polynomial_Interpolation_jar</output-path>
+    <root id="archive" name="Polynomial Interpolation.jar">
+      <element id="module-output" name="Polynomial Interpolation" />
+    </root>
+  </artifact>
+</component>
